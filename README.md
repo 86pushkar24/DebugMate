@@ -1,4 +1,4 @@
-# **StressMate : CP Stress Testor**
+# **DebugMate : CP Stress Testor**
 ---
 
 ## 📝 Introduction
